@@ -1,0 +1,19 @@
+.one{
+    background-color: hsla(347, 75%, 51%, 0.514);
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+#myID{
+    color: blue;
+    font-size: 36px;
+}
+
+.one.two{
+    font-size: 24px;
+}
+
+#myIDtwo{
+    background-color: hsl(133, 69%, 50%);
+    font-size: 24px;
+    font-weight: bold;
+}
